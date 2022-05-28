@@ -1,0 +1,10 @@
+void main()
+{
+ const a=10;
+ final b=30;
+ 
+  print(a);
+  print(b);
+  int c = a+b;
+    print("answer is ${c}");
+}

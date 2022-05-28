@@ -1,0 +1,6 @@
+void main()
+{
+  var name='sabarinath';
+  var roll_no = 4;
+  print("my name is ${name} my roll num is ${roll_no}");
+}
